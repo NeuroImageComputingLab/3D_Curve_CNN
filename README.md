@@ -18,4 +18,5 @@ Segmentation of whole-brain fiber tractography into anatomically meaningful fibe
 ![534697_1_En_18_Fig2_HTML](https://github.com/NeuroImageComputingLab/3D_Curve_CNN/assets/108366877/52da505e-edcb-4e5d-a8de-e5b63565f46b)
 
 ####Cite
+
 Kumaralingam, Logiraj, Kokul Thanikasalam, Sittampalam Sotheeswaran, Jeyasuthan Mahadevan, and Nagulan Ratnarajah. "Segmentation of Whole-Brain Tractography: A Deep Learning Algorithm Based on 3D Raw Curve Points." In Medical Image Computing and Computer Assisted Intervention–MICCAI 2022: 25th International Conference, Singapore, September 18–22, 2022, Proceedings, Part I, pp. 185-195. Cham: Springer Nature Switzerland, 2022.
