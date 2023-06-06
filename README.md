@@ -1,6 +1,4 @@
-# 3D_Curve_CNN & TractNet
-
-##Segmentation of Whole-Brain Tractography: A Deep Learning Algorithm Based on 3D Raw Curve Points
+#Segmentation of Whole-Brain Tractography: A Deep Learning Algorithm Based on 3D Raw Curve Points
 
 ####Abstract
 Home  Medical Image Computing and Computer Assisted Intervention – MICCAI 2022  Conference paper
