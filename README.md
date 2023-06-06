@@ -1,1 +1,1 @@
-# 3D_Curve_CNN
+# 3D_Curve_CNN & TractNet
